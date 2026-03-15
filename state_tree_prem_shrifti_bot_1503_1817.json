@@ -1,0 +1,126 @@
+{
+  "id": "aec51885-fa0f-4643-bf71-0dc8175f5f5b",
+  "state_hash": "eaaeb0ed487caade461c7e301bea84b7",
+  "text": "[ROOT]",
+  "buttons": [],
+  "message_id": null,
+  "media_type": null,
+  "local_media_path": null,
+  "created_at": "17:48:07",
+  "last_seen": "17:48:07",
+  "children": {
+    "/start": {
+      "id": "c1066178-7eb0-435c-9ece-169772de691a",
+      "state_hash": "1501be4b9ef508d0955ee75fc4e1495b",
+      "text": "**👋**** Привет, {user_name}!\nЭто самый уникальный и очаровательный бот для оформление твоего Telegram****⭐️****\n\nВыбери действие в меню****🍭**",
+      "buttons": [
+        {
+          "text": "Темки 🎀"
+        },
+        {
+          "text": "Стикеры 🦋"
+        },
+        {
+          "text": "Шрифты 💜"
+        },
+        {
+          "text": "Языки 🩷"
+        },
+        {
+          "text": "Эмодзи 😜"
+        },
+        {
+          "text": "Мои стикеры 🧚‍♂️"
+        }
+      ],
+      "message_id": 18290,
+      "media_type": null,
+      "local_media_path": null,
+      "created_at": "17:49:03",
+      "last_seen": "17:49:03",
+      "children": {
+        "_inline_0": {
+          "id": "6fecd276-2931-4dc5-a76b-725c298afb1e",
+          "state_hash": "dbff17e9afee53d465f346f26bf51039",
+          "text": "**Скорее добавляй бота в чат (группу)****💬**",
+          "buttons": [
+            {
+              "text": "Добавить бота 🤖",
+              "url": "https://t.me/{bot_username}?startgroup=true"
+            }
+          ],
+          "message_id": 18291,
+          "media_type": null,
+          "local_media_path": null,
+          "created_at": "17:49:03",
+          "last_seen": "17:49:03",
+          "children": {
+            "Темки 🎀": {
+              "id": "82341ee6-fa1b-4d2d-a49c-c0e8e38eb3d3",
+              "state_hash": "860b9baa59b30b785a2639e2a443ca9e",
+              "text": "**⚙️**** Выбери свое устройство**",
+              "buttons": [
+                {
+                  "text": "Android",
+                  "callback_data": "links:theme_a:0:0"
+                },
+                {
+                  "text": "IOS",
+                  "callback_data": "links:theme_i:0:0"
+                },
+                {
+                  "text": "Desktop",
+                  "callback_data": "links:theme_d:0:0"
+                }
+              ],
+              "message_id": 18297,
+              "media_type": null,
+              "local_media_path": null,
+              "created_at": "17:52:05",
+              "last_seen": "17:52:05",
+              "children": {
+                "_inline_": {
+                  "id": "7b333e43-9e4a-4de3-84b1-c743882e9cee",
+                  "state_hash": "d31d592200a6e644d4b18600724ef694",
+                  "text": "**🎨 Android-темы**",
+                  "buttons": [
+                    {
+                      "text": "🌀 Установить",
+                      "url": "https://t.me/addtheme/girlmorski"
+                    },
+                    {
+                      "text": "⬅️",
+                      "callback_data": "links:theme_a:526"
+                    },
+                    {
+                      "text": "1/527️",
+                      "callback_data": "none"
+                    },
+                    {
+                      "text": "➡️",
+                      "callback_data": "links:theme_a:1"
+                    },
+                    {
+                      "text": "↩️ Вернуться",
+                      "callback_data": "themes"
+                    },
+                    {
+                      "text": "Добавить бота 🤖",
+                      "url": "https://t.me/{bot_username}?startgroup=true"
+                    }
+                  ],
+                  "message_id": 18297,
+                  "media_type": "photo",
+                  "local_media_path": "downloads/prem_shrifti_bot/msg_18297.jpg",
+                  "created_at": "18:02:46",
+                  "last_seen": "18:02:46",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
